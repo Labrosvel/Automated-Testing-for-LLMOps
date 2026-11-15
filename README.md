@@ -1,3 +1,3 @@
 # Automated-Testing-for-LLMOps
 
-https://learn.deeplearning.ai/courses/automated-testing-llmops/lesson/n8rhx/overview-of-automated-evals?_gl=1*18bf15g*_ga*MzAyNDkyODgwLjE3OTQ1OTAzODc.*_ga_FR2MZ1VLMS*czE3OTQ3MzY5NzkkbzckZzEkdDE3OTQ3MzY5OTIkajQ3JGwwJGgw
+Deep Learning AI: https://www.deeplearning.ai/courses/automated-testing-llmops?_gl=1*1jl1syt*_ga*MzAyNDkyODgwLjE3OTQ1OTAzODc.*_ga_FR2MZ1VLMS*czE3OTQ3MzY5NzkkbzckZzEkdDE3OTQ3MzcwMTEkajI4JGwwJGgw
